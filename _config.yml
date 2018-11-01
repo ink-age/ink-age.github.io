@@ -3,10 +3,10 @@
 #
 
 # Name of your site (displayed in the header)
-name:
+name: Ink-Age
 
 # Short bio or description (displayed in the header)
-description: A website about about the history of tattoos.
+description: A website about tattoos. 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
