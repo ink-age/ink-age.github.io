@@ -4,5 +4,7 @@ title: First Post
 ---
 
 
-HI Im Jenny
+![tattoo](/images/name-of-your-image.jpg)
+
+
 
