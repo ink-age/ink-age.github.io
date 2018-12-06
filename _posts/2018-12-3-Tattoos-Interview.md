@@ -21,5 +21,5 @@ Person 3.
 
 ## What I Would Do
 
-If I were to get a tattoo, I would get a foreign language tattoo because I think they look cool and Ican personalize my tattoo.
+If I were to get a tattoo, I would get a foreign language tattoo because I think they look cool and I can personalize my tattoo.
 I think Korean letters are interesting, so I would get something around that language or roman numerals. 
