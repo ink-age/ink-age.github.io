@@ -8,10 +8,15 @@ title: Tattoos Interviews
 ## Tattoos Interviews
 
 Person 1.
+
 -upper inner arm, rose tattoo
-Person 2
+
+Person 2.
+
 -wrist, the day her grandpa was born and died
-Person 3
+
+Person 3.
+
 -sword, upper arm 
 
 ## What I Would Do
