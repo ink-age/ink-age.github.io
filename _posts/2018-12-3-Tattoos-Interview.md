@@ -11,6 +11,8 @@ Person 1.
 
 -upper inner arm, rose tattoo
 
+![rosetattoos](/images/rosetattoos.jpg)
+
 Person 2.
 
 -wrist, the day her grandpa was born and died
