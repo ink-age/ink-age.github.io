@@ -32,3 +32,4 @@ I think Korean letters are interesting, so I would get something around that lan
 
 ![languagetattoo](/images/languagetattoo.jpg)
 
+![tattoo10](/images/tattoo10.jpg)
