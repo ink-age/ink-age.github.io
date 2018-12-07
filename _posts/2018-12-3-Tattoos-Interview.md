@@ -11,7 +11,7 @@ Person 1.
 
 -upper inner arm, rose tattoo
 
-![rosetattoos](/images/rosetattoos.jpg)
+![rosetattoo](/images/rosetattoo.jpg)
 
 Person 2.
 
