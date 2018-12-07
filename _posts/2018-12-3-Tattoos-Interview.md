@@ -3,7 +3,7 @@ layout: post
 title: Tattoos Interviews 
 ---
 
-![tattoo4](/images/tattoo4.jpg)
+![tattoo6](/images/tattoo6.jpg)
 
 ## Tattoos Interviews
 
