@@ -17,9 +17,13 @@ Person 2.
 
 -wrist, the day her grandpa was born and died
 
+![romannumerals](/images/romannumerals.jpg)
+
 Person 3.
 
 -sword, upper arm 
+
+![sword](/images/sword.jpg)
 
 ## What I Would Do
 
