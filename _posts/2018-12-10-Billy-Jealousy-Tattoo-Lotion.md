@@ -3,7 +3,7 @@ layout: post
 title: Billy Jealousy Tattoo Lotion
 ---
 
-![billyj](/images/billyj.jpg)
+![billyj2](/images/billyj2.jpg)
 
 ## Billy Jealousy Tattoo Lotion
 
