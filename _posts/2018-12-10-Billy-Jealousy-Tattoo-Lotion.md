@@ -20,7 +20,7 @@ title: Billy Jealousy Tattoo Lotion
  
  ![picture2](/images/picture2.jpg)
  
-  Another option is Aquaphor Advanced Therapy Healing Ointment. I like this product because it hydrates the skin and prevents dryness. I also like that you can get a 14 fl. oz, it's around $12.00 .
+  Another option is Aquaphor Advanced Therapy Healing Ointment. I like this product because it hydrates the skin and prevents dryness. I also like that you can get a 14 fl. oz, around $12.00 .
   
   
 
