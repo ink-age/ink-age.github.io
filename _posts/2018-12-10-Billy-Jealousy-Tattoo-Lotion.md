@@ -15,7 +15,10 @@ title: Billy Jealousy Tattoo Lotion
  One thing I like about this product is that it helps prevent ink discoloration. Hydrates and tones for better color. Exfoliates and encourages cell turnover. One thing I don't like about the prodcut is that the heavy floral scent might be overwhemling to some people. I also don't like that it's kinda expensive for some people. For one bottle, which is 8 fl. oz, it's around $20.00 .
  
  
- ## Other Option
+ 
+## Other Option 
+ 
+ ![picture2](/images/picture2.jpg)
  
   Another option is Aquaphor Advanced Therapy Healing Ointment. I like this product because it hydrates the skin and prevents dryness. I also like that you can get a 14 fl. oz, it's around $12.00 .
   
