@@ -3,7 +3,7 @@ layout: post
 title: First Post 
 ---
 
-![tattoo](/images/tatt1.jpg)
+![picture6](/images/picture6.jpg)
 
 
 ## My First Post
